@@ -1,0 +1,4 @@
+export GCP_PROJECT='aml-proj-341607'
+export AR_REPO='gemini-demo'
+export GCP_REGION='us-central1'
+export SERVICE_NAME='gemini-qapp-2'
